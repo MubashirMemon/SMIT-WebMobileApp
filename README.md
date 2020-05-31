@@ -1,1 +1,1 @@
-SMIT-WebMobileApp
+Web and Mobile Hybrid Application Development
