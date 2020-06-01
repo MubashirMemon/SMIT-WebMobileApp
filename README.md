@@ -1,1 +1,2 @@
-# Web and Mobile Hybrid Application Development
+# Web-Mobile-Hybrid-App-Development
+Web & Mobile Hybird App Dev (Assignments)
