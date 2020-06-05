@@ -1,0 +1,25 @@
+div{
+    padding-left: 2cm; background-color: blueviolet
+    }
+    h1>b{
+        color:rgb(81, 81, 247);
+     }
+     div>p{
+         color: white;
+     }
+     tr{
+         color: white;
+     }
+     div p{
+         padding-left: 3.3cm;
+     }
+     img{
+         padding-left: 10cm;
+     }
+     h1>b{
+         padding-left: 10cm;
+     }
+     *{
+         padding-inline-start: 08px;
+         padding-inline-end: 08px;
+     }
