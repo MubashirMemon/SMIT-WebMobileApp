@@ -1,0 +1,82 @@
+.navbar {
+    background-color: #FFDE03 !important;
+       
+}
+.nav-link{
+    color:blue !important;
+}
+.navbar-nav{
+    color: aqua;
+}
+.btn-outline-primary{
+    border-radius: 50px;
+    border-color: #FFDE03;
+}
+.carousel slide{
+    width: fit-content !important;
+}
+.carousel-item{
+    height: auto;
+}
+@media screen and (max-width: 1000px){
+     .navbar.navbar.navbar.nav-link.nav-link.nav-link.nav-link.btn-outline-primary.carousel.carousel-item
+     .h1.intro.para.form-row.btn-outline-secondary.card{
+         width: 100px;
+         max-height: 100px;
+     }
+    
+    }
+.h1{
+    text-align: center;
+    text-size-adjust: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 250;
+    font-variant: small-caps;
+    color:blue;
+    background-color: aqua;
+        
+}
+
+.intro{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-left: 115px;
+    padding-right: 115px;
+    
+}
+.para{
+    padding-left: 180px;
+}
+.navbar-toggler{
+    border-radius: 20px !important ;
+}
+.form-row{
+    align-items: center;
+}
+.form-row{
+    padding-left: 120px !important;
+}
+.form-check-label{
+    text-align: center !important;
+}
+.form-group{
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.btn-outline-secondary{
+    padding-inline-start: 100px !important;
+}
+.btn-outline-success{
+    padding-left: 40px !important;
+}
+.card{
+    align-self: start;
+    image-resolution: 50px;
+    margin-top: 25px;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+}
+@media :-moz-full-screen{
+    .navbar.navbar.navbar.nav-link.nav-link.nav-link.nav-link.btn-outline-primary.carousel.carousel-item
+}
