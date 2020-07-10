@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+    text-align: center;
+    text-shadow: aqua;
+    border: black;
+}
+h1{
+   background-color: #00B8D4;
+   color: #B9F6CA;
+   display: inline-block;
+    width: 70px;
+    border-radius: 40px;
+    block-size: auto ;
+}
+img{
+    height: 120px;
+    width: 100px;
+}
+h2{
+    color: #0091EA;
+    font-size: smaller;
+}
+button{
+    border-radius: 40px;
+    text-align: inherit;
+    padding-inline-end: 40px;
+    background-color: #FF0266;
+    color: greenyellow;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom-right-radius: 70px;
+    border-top-left-radius: 65px;
+    border-width: 0;
+    padding-right: 5px;
+}
