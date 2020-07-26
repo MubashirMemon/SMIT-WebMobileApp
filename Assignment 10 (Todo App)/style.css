@@ -1,0 +1,44 @@
+body{
+    background-image: url(todo.png);
+    background-size: 1000px;
+    background-position: none;
+    text-align: center;
+    font-family: "monsterrat" 'Times New Roman', Times, serif;
+    font-style: bold;
+    font: outline;
+    color:#0091EA;
+    font-size: 35px;
+}
+div{
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 60px;
+}
+.btn{
+    background-color: greenyellow;
+    text-align: center;
+
+}
+input{
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    min-width: 45%;
+    background: greenyellow;
+    height: 50px;
+    font-size: 20px;
+    padding-left: 25px;
+    font-family: "monsterrat" 'Times New Roman', Times, serif,;
+
+}
+button{
+    border: 3px solid white;
+    border-radius: 40px;
+    border-color: #00BCD4;
+    padding:  8px 8px;
+    color: yellow;
+    font-size:  22px;
+    background-color: #ff2066;
+    padding-right: 20px;
+    float: center;
+}
