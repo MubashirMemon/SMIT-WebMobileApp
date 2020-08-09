@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+body{
+    overflow-x: hidden;
+    background-image: url(image.jpg);
+
+}
+.header{
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+    background-image: linear-gradient(to right, white, #76FF03);
+    
+}
+h1{
+    color: #ef0078;
+}
+.section{
+    background-image: url(quiz.jpg);
+    background-size: 650px;
+    background-position: 400px;
+    align-items: center;
+    background-repeat: none;
+    background-position: 50px;
+    justify-content: center;
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 50%;
+    height: 350px;
+    border: 0px solid lightgray;
+    box-shadow: 5px 5px 5px none;
+    background-color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    color: greenyellow;
+    
+}
+.srNo{
+    margin-left: 60px;
+    font-size: 22px;
+}
+.radioBtn{
+    margin: 20px 0 0 30px;
+    width: 14px;
+    height: 14px;
+}
+
+.btn{
+    margin: 20px 0 0 60px;
+    background-color: #E91E63 ;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px gray;
+    border: 1px solid black ;
+}
+.optionLabel{
+    font-size: 20px;
+}
+.resultBtn{
+    margin: 20px 0 0 10px;
+    background-color:#0091EA;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px white;
+    border: 1px solid azure;
+}
+.footer{
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+    background-image: linear-gradient(to right, white, #76FF03);
+
+}
